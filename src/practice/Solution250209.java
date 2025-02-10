@@ -25,7 +25,7 @@ public class Solution250209 {
 		return my_string;
 	}
 	
-	/*코드 리팩토*/
+	/*코드 리팩토링*/
 	
 	public String exam2(String my_string, String alp) {
 		String str = alp.toUpperCase();
